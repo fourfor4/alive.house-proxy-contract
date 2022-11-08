@@ -1,0 +1,1 @@
+# alive.house-proxy-contract
