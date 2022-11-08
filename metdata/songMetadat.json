@@ -1,0 +1,86 @@
+{
+    "name": "=artist name - song name (edition name) // only if song editions are more than one, if only one son then =artist name - song name",
+    "description": " nft release description ",
+    "image": "arweave link of uploaded image from  album-art/upload cover image",
+    "version": "0.1",
+    "language": "english",
+    "title": "song name (to display on frontend)",
+    "artist": "from song details",
+    "featuredArtist": "from song details",
+    "duration": 193.972,
+    "mimeType": "audio/wav (whatever type it is)",
+    "losslessAudio": "arveweave song link",
+    "genre": "from  song details",
+    "tags": "from song details in array of string",
+    "bpm": "from artist details",
+    "key": "from artist page",
+    "license": null,
+    "locationCreated": null,
+    "external_url": "song page marketplace url",
+    "animation_url": " arweave link of uploaded video from album art/upload cover page",
+    "project": {
+      "title": "same as above",
+      "artwork": {
+        "uri": "same as image url above if single song(i.e not album)",
+        "mimeType": "image/jpeg",
+        "nft": null
+      },
+      "description": "same as above if single song and not an album",
+      "type": "Single",
+      "originalReleaseDate": "from song details page",
+      "recordLabel": "from song details page in an array",
+      "publisher": "from song details page",
+      "upc": null,
+      "trackNumber": "from backend or music brains",
+      "isrc": "from songDetails page"
+    },
+    "isrc": "from songDetails page",
+    "artwork": {
+      "uri": "same as above uri",
+      "mimeType": "image/jpeg",
+      "nft": null
+    },
+    "lyrics": { "text": null, "nft": null },
+    "visualizer": { "uri": null, "mimeType": null, "nft": null },
+    "originalReleaseDate": "from song details page",
+    "recordLabel": "from song details page in an array",
+    "publisher": "from song details page",
+    "credits": [
+      {
+        "name": "perfomer name from artist details and producer details",
+        "collaboratorType": "role from artist details and producer details"
+      },
+      {
+        "name": "perfomer name from artist details and producer details",
+        "collaboratorType": "role from artist details and producer details"
+      }
+    ],
+    "attributes": {
+      "artist": "GUSPY",
+      "project": "album name if any or else null",
+      "bpm": "from artist details",
+      "key": "from artist page",
+      "genre": "from  song details",
+      "recordLabel": "from song details page in an array",
+      "license": null
+    },
+    "stems": [
+      {
+        "name": "instrument name from stem",
+        "link": "link of the encrypted arweave which has the enrypted file and encryptedSymmetric key"
+      },
+      {
+        "name": "instrument name from stem",
+        "link": "link of the encrypted arweave which has the enrypted file and encryptedSymmetric key"
+      }
+    ],
+    "bonusContent": [
+      {
+        "name": "bonus content name",
+        "mime_type": "mimetype",
+        "description": "description",
+        "link": "link of the encrypted arweave which has the enrypted file and encryptedSymmetric key"
+      }
+    ]
+  }
+

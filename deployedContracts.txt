@@ -1,0 +1,44 @@
+Initial Band Contract Implementation Addr:  0xD3BAC13E474C3Efb425a7FEc32CCAD1465447184
+Initial Fixed Song Contract Implementation Addr :  0xfe87a7eB7F3ddfb73d112CB506DD1935F0D23a4B
+Initial Bonded Song Contract Implementation Addr :  0x540a0C9DfF61a0265014ba8705cDeb9daee0E19e
+Initial Dutch Song Contract Implementation Addr :  0xCAC7107cD213C2F48516613f35c452244Cca4E87
+Alive Registry Contract :  0x6683a11BA663B02ef5550cDb58dbF7e09f670654
+Alive House Contract :  0x4fc12D9Ff1E1e8A0Dced84548Bfe6a69a5Cf457E
+
+
+alive new song :  0x6A8142D5c9eD1CC6A2760DfeE16280F8D1bC426B
+AliveBandV2 :  0x9513E678b1C6bc0C78dCDC383a29B1630BC3E9E1
+alive Registry V2:  0xF3110E3e551E238814bA83Cdb00BbC44002bFebD
+alive house v2:  0x34Fe730DE048C69254F1775edCf13c5AF77Bf57B
+alive bonded song v2:  0x60721d8344f079a3260F487Cc1D72c28365D9257
+
+
+----newContractsMumbaiDeployement - 
+Initial Band Contract Implementation Addr:  0x394782f19398e24a6dEd73E63d13f36fceCbc517
+Initial Fixed Song Contract Implementation Addr :  0x8c31680E6631F410bDF39DE0E5803FAf216F5a75
+Initial Bonded Song Contract Implementation Addr :  0x511e7d764bb76E3796CC6ed924c28EAaD03b2290
+Initial Dutch Song Contract Implementation Addr :  0xd4CA4420259906A2B355d5d8C10e5eDDB00900A8
+Alive Registry Contract :  0xec34786d6aEedB09216C110848b5090bE75248d8
+Alive House Contract :  0x93A79AFb010702D9260F508C0A9E9a78D209c5B4
+
+
+
+
+---mainnet details (old)
+Solidity compilation finished successfully
+Initial Band Contract Implementation Addr:  0x9Ca93F17FeD0ABCeC59447784Cf86262775FD486
+Initial Fixed Song Contract Implementation Addr :  0x7c23ea6E7dA93c3eA05db36484D5B54Fdd7c5bB9
+Initial Bonded Song Contract Implementation Addr :  0x4a85De63c78332EDF51033196b6108519d4EDC59
+Initial Dutch Song Contract Implementation Addr :  0x2b651AC68B8D637065DD6E3c8a0272eadF3A7e3C
+Alive Registry Contract :  0x9B1f3EAb588905392436e8e4c1Dd8f9b8CaFf511
+Alive House Contract :  0xdD0Ab7F00a73Be63Dff5DCd2128d8eAE03015714
+
+
+
+---mainnet details 19-aug-2022
+Initial Band Contract Implementation Addr:  0x86e443283C37D588044770b27b51A8329E004D2E
+Initial Fixed Song Contract Implementation Addr :  0xE5507A4C8f1818cce9c4b8502dFa0181dAa3b508
+Initial Bonded Song Contract Implementation Addr :  0xFB95D986f9759a0C84673d7C0527da090CBB069F
+Initial Dutch Song Contract Implementation Addr :  0xea44226D376988bb9180368802d04ABFE99Ee09a
+Alive Registry Contract :  0x0788cbb0eDC91F9f1572bE52686F27FF358617FC
+Alive House Contract :  0x779757fc834d7D1e9bA65b69Ca24A96E8f169e48

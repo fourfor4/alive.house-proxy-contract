@@ -1,0 +1,8 @@
+{
+    "name": "Alive-Song",
+    "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+    "image": "https://lh3.googleusercontent.com/8mjfGEdA7WbOHqE_veG5P_9A91S-0bSvkTwtpdRl8ckzxLGNEuNHSMh9tALb9-iTQ5ZYucxJZFAFvCSukeRqzCTy73nSpOl9GZRCRw=w600",
+    "external_link": "https://twitter.com/harsh_eth",
+    "seller_fee_basis_points": 2000, 
+    "fee_recipient": "0x716be09ea1d2ACABfAC76D05Bc90144F01B681eC"
+  }
